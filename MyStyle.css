@@ -1,0 +1,27 @@
+body {
+  background-color: antiquewhite ;
+}
+p {
+  color:rgb(0,0,100); 
+  font-family: monospace;
+}
+h1 {
+  font-weight: bold;
+  color:rgb(250,20,20);
+  font-size: 45px;
+  text-decoration: underline;
+  font-family: monospace;
+}
+h2 { font-weight: bold;
+  color: brown;
+  font-size: 25px;
+  font-family: monospace;
+}
+ul { font-family: monospace;
+  color:blue;
+}
+img { border-top-style: double ;
+  border-bottom-style: double ;
+  border-right-style: double ;
+  border-left-style: double 
+}
